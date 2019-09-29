@@ -1,0 +1,19 @@
+input[type="search"]:focus {
+    outline: none;
+}
+.dataTables_wrapper .dataTables_filter input {
+    border: 1px solid #222;
+    padding: 5px 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
